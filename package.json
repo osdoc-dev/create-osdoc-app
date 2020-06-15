@@ -1,0 +1,37 @@
+{
+  "name": "create-osdoc-app",
+  "version": "0.0.1",
+  "description": "create-osdoc-app cli",
+  "main": "index.js",
+  "repository": "git@github.com:osdoc-dev/create-osdoc-app.git",
+  "author": "ahwgs <ah_wgs@126.com>",
+  "homepage": "https://github.com/umijs/create-umi",
+  "bugs": {
+    "url": "https://github.com/umijs/create-umi/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "cli.js",
+    "index.js",
+    "lib"
+  ],
+  "bin": {
+    "create-osdoc-app": "cli.js"
+  },
+  "scripts": {
+    "prettier": "prettier -c --write '**/*'"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clipboardy": "^2.3.0",
+    "execa": "^4.0.2",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "inquirer": "^7.2.0",
+    "mkdirp": "^1.0.4",
+    "prettier": "^2.0.5",
+    "semver": "^7.3.2",
+    "yargs-parser": "^18.1.3",
+    "yeoman-environment": "^2.10.3"
+  }
+}

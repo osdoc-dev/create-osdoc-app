@@ -24,6 +24,8 @@ $ yarn create-osdoc-app [appName]
 
 - [`fast_h5_vue`](https://github.com/ahwgs/fast_h5_vue) - vue +vuex-cli3+vuex+vue-router+vant 快速开发 h5 模板
 
+- [`fast_react_native`](https://github.com/ahwgs/fast_react_native) - 基于 react-native+dvajs+antd-mobile-rn+react-navigation@5.x+axios+typescript 开发的通用`react-native`模板
+
 ## 使用示例
 
 ```bash
@@ -35,6 +37,7 @@ new-app-demo
 ? 🌮 请选择应用模板 (Use arrow keys)
 > fast_h5_umi    - 基于umi3.x+typescript+antd-mobile 构建h5模板
   fast_h5_vue    - vue +vue-cli3+vuex+vue-router+vant 快速开发 h5模板
+  fast_react_native  - 基于 react-native+dvajs+antd-mobile-rn+react-navigation@5.x+axios+typescript 开发的通用react-native
 
 Cloning into 'new-app'...
 remote: Enumerating objects: 123, done.

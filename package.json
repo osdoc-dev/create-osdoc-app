@@ -1,13 +1,13 @@
 {
   "name": "create-osdoc-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create-osdoc-app cli",
   "main": "index.js",
   "repository": "git@github.com:osdoc-dev/create-osdoc-app.git",
   "author": "ahwgs <ah_wgs@126.com>",
-  "homepage": "https://github.com/umijs/create-umi",
+  "homepage": "https://github.com/osdoc-dev/create-osdoc-app",
   "bugs": {
-    "url": "https://github.com/umijs/create-umi/issues"
+    "url": "https://github.com/osdoc-dev/create-osdoc-app/issues"
   },
   "license": "MIT",
   "files": [

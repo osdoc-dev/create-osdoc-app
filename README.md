@@ -13,7 +13,7 @@ $ npm install create-osdoc-app -g
 安装后执行如下命令
 
 ```bash
-$ yarn create-osdoc-app [appName]
+$ create-osdoc-app [appName]
 ```
 
 ## 模板
